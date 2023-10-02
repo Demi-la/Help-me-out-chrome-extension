@@ -1,0 +1,109 @@
+/* body {
+    font-family: 'Sora', sans-serif;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-color: #f0f0f0;
+}
+
+.container {
+    max-width: 1200px;
+}
+
+.box {
+    box-shadow: 0px 4px 20px 0px rgba(0, 0, 0, 0.10);
+    width: 18.75rem;
+    height: 27.4375rem;
+    background: white;
+    margin-top: 5rem;
+    border-radius: 1.5rem;
+    padding: 1.5rem;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo img {
+    width: 20px;
+    height: 20px;
+}
+
+.app-name {
+    font-size: 1rem;
+    font-weight: 700;
+    color: #120B48;
+}
+
+.icons {
+    display: flex;
+}
+
+.settings-icon, .close-icon {
+    margin-left: 10px;
+}
+
+.settings, .close {
+    font-size: 1.25rem;
+}
+
+.description {
+    font-size: 0.875rem;
+    font-weight: 400;
+    color: hsla(246, 29%, 33%, 1);
+    width: 15rem;
+    margin-top: 1rem;
+}
+
+.features {
+    display: flex;
+    justify-content: center;
+    gap: 2rem;
+    margin-top: 2rem;
+    font-size: 0.875rem;
+}
+
+.feature {
+    color: hsla(246, 14%, 62%, 1);
+}
+
+.feature img {
+    margin-left: 1.5rem;
+}
+
+.option {
+    border: 1px solid var(--primary-primary-600, #100A42);
+    border-radius: 0.75rem;
+    width: 15.75rem;
+    height: 3rem;
+    margin-top: 1.5rem;
+    font-size: 0.875rem;
+    font-weight: 500;
+    color: hsla(246, 74%, 15%, 1);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 1rem;
+}
+
+.option img {
+    margin-left: 1rem;
+}
+
+.start-recording {
+    width: 15.75rem;
+    height: 3.1875rem;
+    background: hsla(247, 73%, 16%, 1);
+    color: white;
+    border-radius: 0.75rem;
+    margin-top: 1.5rem;
+    border: none;
+    cursor: pointer;
+}
+
+Add CSS for the toggle switches if needed */
